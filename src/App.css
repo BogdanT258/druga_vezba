@@ -1,0 +1,14 @@
+.outer-div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card{
+  margin: 20px;
+}
+.favourite-div{
+  display: block;
+}
+.favourite-h1{
+  text-align: center;
+}
